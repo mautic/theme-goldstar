@@ -5,7 +5,7 @@
   "version": "1.0",
   "keywords": ["mautic","theme"],
   "extra": {
-    "install-directory-name": "fresh-wide"
+    "install-directory-name": "goldstar"
   },
   "minimum-stability": "dev",
   "require": {
